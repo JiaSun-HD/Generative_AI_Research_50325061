@@ -1,0 +1,6 @@
+[DEMO RUN - PRACTICE ONLY]
+Project: Generative AI Research - Boon or Bane
+Status: Initializing demo logbook for git branching, PR, and conflict resolution practice.
+- Task 1: Setup structure [Pending]
+- Task 2: Literature review [Pending]
+- Task 3: Data analysis [Pending]
